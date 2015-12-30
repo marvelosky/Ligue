@@ -1,0 +1,1 @@
+INSERT INTO `league`.`hours` (`Priority`, `Player`, `Sunday`, `Monday`, `Tuesday`, `Wednesday`, `Thursday`, `Friday`, `Saturday`) VALUES (NULL, 'Pozix', '', '[0800-1200][1830-2300]', '[1430-2300]', '[1230-2300]', '[1430-2300]', '[1130-1230][1530-2300]', '[0800-2400]');

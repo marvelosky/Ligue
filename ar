@@ -1,0 +1,17 @@
+Start loop1
+Update ismatched array
+Selects Next > 
+Look for match with mmr compatibility and ismatched availability 
+Start loop2
+Run through all the players until 3 matches are found
+Update the database with ismatched
+Exit the loop2
+Exit loop1
+
+
+Starts loop1
+Selects player
+Look for match
+Update when match is found
+continue loop until last entry
+exit loop1
