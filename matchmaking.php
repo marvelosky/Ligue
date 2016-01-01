@@ -60,7 +60,7 @@ for($DayRotation = 0; $DayRotation < 7; $DayRotation++) {
 				$Player2 = $Name;
 				$Matches[$j] = array($Player1, $Player2, $Day, $TimePeriod);
 				$F1 = False;
-				$F2 = False;
+				// $F2 = False;
 				echo "<br>".$Player1." vs ".$Player2." at ".$TimePeriod." on ".$Day."<br>";
 				// Update IsMatched				
 				for($i = 0; $i < 2; $i++){
