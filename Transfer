@@ -1,0 +1,16 @@
+var obj = JSON.parse(text);
+
+$(document).ready(function() {
+    $('#example').DataTable( {
+        data: obj,
+        columns: [
+            { title: "ID" },
+            { title: "Player" },
+            { title: "MMR" },
+            { title: "NbrWin" },
+            { title: "Nbrlose" },
+			{ title: "Point" },
+            { title: "Matchs" }
+        ]
+    } );
+} );
